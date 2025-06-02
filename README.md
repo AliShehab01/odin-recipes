@@ -1,2 +1,2 @@
 # odin-recipes
-check
+small project from odin project course 
